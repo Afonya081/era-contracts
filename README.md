@@ -30,6 +30,12 @@ See [LICENSE-MIT](LICENSE-MIT) for details.
 - [Twitter for Devs](https://twitter.com/zkSyncDevs)
 - [Discord](https://join.zksync.dev/)
 - [Mirror](https://zksync.mirror.xyz/)
+- [Reddit](https://www.reddit.com/r/zkSync/)
+- [Medium](https://blog.matter-labs.io/)
+- [Telegram](https://t.me/zksync)
+- [Mainnet Block Explorer](https://explorer.zksync.io/)
+- [Goerli](https://goerli.explorer.zksync.io/)
+- [Sepolia](https://sepolia.explorer.zksync.io/)
 
 ## Disclaimer
 
